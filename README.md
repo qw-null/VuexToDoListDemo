@@ -1,5 +1,7 @@
 # vuex_todolist
 
+使用Vuex实现todoList项目，搭配博客 [Vuex 学习笔记](https://qw-null.github.io/2021/06/01/Vuex-study-note/) 章节2 Vuex小Demo
+
 ## Project setup
 ```
 npm install
