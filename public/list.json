@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "info": "双欣化学工业有限责任公司",
+        "done": false
+    },
+    {
+        "id": 1,
+        "info": " 双欣环保材料股份有限责任公司",
+        "done": true
+    },
+    {
+      "id": 2,
+      "info": " chongchong冲有限责任公司",
+      "done": false
+    },
+    {
+      "id": 3,
+      "info": " 培训班",
+      "done": true
+    }
+]
